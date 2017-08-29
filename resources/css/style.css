@@ -18,6 +18,7 @@ h3{
   font-size: 23px;
   font-weight: bold;
 }
+/*Following are the CSS rules for the top section with the larger background image */
 .navigation{
   background-image: url("../../resources/images/the-flatiron-building.png");
   color: white;
@@ -28,7 +29,8 @@ p.navigation{
 p{
   font-size: 14px;
 }
-.bottom{
+/*Following are the CSS rules for the lower designPanel section */
+.designPanel{
   background-image: url("../../resources/images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
